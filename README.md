@@ -6,7 +6,7 @@ This project aims to analyze household debt data across various counties over ti
 1. Exploratory Data Analysis (EDA) to understand the distribution and trends within the Target and household debt data.
 2. Time Series Analysis using SARIMAX to model and forecast household debt levels.
 
-The final outcome of the project will be a set of models and visualizations that can aid in understanding the impact, if any, of Target store events on local household debt levels.
+The final outcome of the project will be a set of models and visualizations that can aid in understanding the impact of socioeconomic factors on the opening and success of Target stores. I hope that if based on  local household debt levels we can predict if there is /should be a Target store.
 
 
 ### Data Dictionary for Household Debt Data
