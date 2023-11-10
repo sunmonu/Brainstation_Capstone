@@ -8,3 +8,15 @@ This project aims to analyze household debt data across various counties over ti
 
 The final outcome of the project will be a set of models and visualizations that can aid in understanding the impact, if any, of Target store events on local household debt levels.
 
+
+
+
+
+
+
+### Requirements
+-Python 3.8+
+-pandas
+-matplotlib
+-statsmodels
+See requirements.txt for more details.
