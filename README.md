@@ -19,13 +19,22 @@ The final outcome of the project will be a set of models and visualizations that
 
 ### Data Dictionary for Target Data 
 
+* Data Dictionary for target.csv
+* Address.AddressLine1: The street address of the Target store.
+* Address.City: The city in which the Target store is located.
+* Address.County: The county in which the Target store is located.
+* Address.Latitude: The geographical latitude coordinate of the Target store.
+* Address.Longitude: The geographical longitude coordinate of the Target store.
+* Address.PostalCode: The postal code or ZIP code for the Target store's location.
+* Address.Subdivision: The state or province in which the Target store is located.
+* LocationMilestones.LastRemodelDate: The date of the last remodeling of the Target store, if applicable.
+* LocationMilestones.OpenDate: The date when the Target store was opened.
+* Name: The name of the Target store.
+* Store.StoreDistrictID: An identifier for the district in which the Target store is located.
+* Store.StoreGroupID: An identifier for the group to which the Target store belongs.
+* Store.StoreRegionID: An identifier for the region in which the Target store is located.
+* SubTypeDescription: A description of the Target store subtype, if applicable.
+* TypeCode: A code indicating the type of Target store.
+* AllCapability: A descriptor of all capabilities that the store possesses.
+* Remodeled: A flag indicating whether the store has been remodeled (True or False).
 
-
-
-
-### Requirements
--Python 3.8+
--pandas
--matplotlib
--statsmodels
-See requirements.txt for more details.
