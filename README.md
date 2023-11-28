@@ -38,3 +38,26 @@ The final outcome of the project will be a set of models and visualizations that
 * AllCapability: A descriptor of all capabilities that the store possesses.
 * Remodeled: A flag indicating whether the store has been remodeled (True or False).
 
+
+## Data Dictionary for Age by Population & Sex
+*IBRC_Geo_ID	
+*Statefips	
+*Countyfips	
+*Description	
+*Year	
+*Total 
+*Population	
+*Population 0-4	
+*Population 5-17	
+*Population 18-24	
+*Population 25-44	
+*Population 45-64	
+*Population 65+	
+*Population Under 18	
+*Population 18-54	
+*Population 55+	
+*Male Population	
+*Female Population
+
+
+
