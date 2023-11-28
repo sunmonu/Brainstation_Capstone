@@ -40,36 +40,37 @@ The final outcome of the project will be a set of models and visualizations that
 
 
 ## Data Dictionary for Age by Population & Sex
-* IBRC_Geo_ID	- Full Fips Code 
-* Statefips	
-* Countyfips	
-* Description	
-*Year	
-*Total 
-*Population	
-*Population 0-4	
-*Population 5-17	
-*Population 18-24	
-*Population 25-44	
-*Population 45-64	
-*Population 65+	
-*Population Under 18	
-*Population 18-54	
-*Population 55+	
-*Male Population	
-*Female Population
+- IBRC_Geo_ID: Full Fips Code
+- Statefips
+- Countyfips
+- Description
+- Year
+- Total Population
+- Population 0-4
+- Population 5-17
+- Population 18-24
+- Population 25-44
+- Population 45-64
+- Population 65+
+- Population Under 18
+- Population 18-54
+- Population 55+
+- Male Population
+- Female Population
 
-## Data Dictionary for Race by County Data 
-*IBRC_Geo_ID - Full Fips code
-*Statefips
-*Countyfips
-*Description	
-*Year	
-*Total Population	
-*White Alone	
-*Black Alone	
-*American Indian or Alaskan Native	
-*Asian Alone	*Hawaiian or Pacific Islander Alone	
-*Two or More Races	
-*Not Hispanic	Hispanic
+## Data Dictionary for Race by County Data
+- IBRC_Geo_ID: Full Fips code
+- Statefips
+- Countyfips
+- Description
+- Year
+- Total Population
+- White Alone
+- Black Alone
+- American Indian or Alaskan Native
+- Asian Alone
+- Hawaiian or Pacific Islander Alone
+- Two or More Races
+- Not Hispanic
+- Hispanic
 
