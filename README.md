@@ -40,10 +40,10 @@ The final outcome of the project will be a set of models and visualizations that
 
 
 ## Data Dictionary for Age by Population & Sex
-*IBRC_Geo_ID	- Full Fips Code 
-*Statefips	
-*Countyfips	
-*Description	
+* IBRC_Geo_ID	- Full Fips Code 
+* Statefips	
+* Countyfips	
+* Description	
 *Year	
 *Total 
 *Population	
