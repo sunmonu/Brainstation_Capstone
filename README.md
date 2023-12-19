@@ -1,5 +1,5 @@
 # Project Overview
-This project aims to analyze household debt data across various counties over time, focusing on identifying trends and correlations between household debt levels and the opening and remodeling dates of Target stores.
+This project aims to analyze demographic data across various counties over time to answer the question "Where should we open the next Target location?"
 
 ### The analysis involves:
 
