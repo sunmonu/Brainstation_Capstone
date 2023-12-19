@@ -3,8 +3,8 @@ This project aims to analyze demographic data across various counties over time 
 
 ### The analysis involves:
 
-1. Exploratory Data Analysis (EDA) to understand the distribution and trends within the Target and household debt data.
-2. Logistic Regression to predict where Target's are currently located and understand coefficients
+1. Exploratory Data Analysis (EDA) to understand the distribution and trends within the data.
+2. Logistic Regression to predict where the Targets are currently located and understand coefficients
 3. KMeans Clustering 
 
 The final outcome of the project will be a set of models and visualizations that can aid in helping Target understand what counties provide the best ROI on their brick-and-mortar stores and predict what counties currently do not have Target stores but would be a great location based on demographic data.
