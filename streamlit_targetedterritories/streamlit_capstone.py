@@ -13,11 +13,11 @@ def load_data(path, num_rows=None, encoding='utf-8'):
     return df
 
 # B. Load data
-pop_age_sex_path = "/Users/jennifersunmonu/Downloads/StreamLitApp_Capstone/PopulationbyAgeandSexCounties.csv"
-pop_race_path = "/Users/jennifersunmonu/Downloads/StreamLitApp_Capstone/PopulationbyRaceCounties.csv"
-target_data_path = "/Users/jennifersunmonu/Downloads/StreamLitApp_Capstone/target.csv"
-debt_data_path = "/Users/jennifersunmonu/Downloads/StreamLitApp_Capstone/household-debt-by-county.csv"
-pred_df_path = "/Users/jennifersunmonu/Downloads/StreamLitApp_Capstone/streamlit_data_TargetedTerritories.csv"
+pop_age_sex_path = "data/PopulationbyAgeandSexCounties.csv"
+pop_race_path = "data/PopulationbyRaceCounties.csv"
+target_data_path = "data/target.csv"
+debt_data_path = "data/household-debt-by-county.csv"
+pred_df_path = "data/streamlit_data_TargetedTerritories.csv"
 
 pop_age_sex = load_data(pop_age_sex_path, 50000,encoding='ISO-8859-1')
 pop_race = load_data(pop_race_path, 50000,encoding='ISO-8859-1')
